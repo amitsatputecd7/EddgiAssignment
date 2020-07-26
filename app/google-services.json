@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951696752356",
+    "firebase_url": "https://edgiassignment.firebaseio.com",
+    "project_id": "edgiassignment",
+    "storage_bucket": "edgiassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951696752356:android:e3986c14dbe6d3441df6f1",
+        "android_client_info": {
+          "package_name": "com.example.eddgiassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951696752356-hi3ht3pv50h3nuomlfckv84vsdqf872m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eddgiassignment",
+            "certificate_hash": "c3e6cd989416199d5facf8721913d5df7f3deb84"
+          }
+        },
+        {
+          "client_id": "951696752356-kcifagm8oogesknop3sm771re823c53u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UcgI5_p53RuF91f12kRHSIxStbShoMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951696752356-kcifagm8oogesknop3sm771re823c53u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

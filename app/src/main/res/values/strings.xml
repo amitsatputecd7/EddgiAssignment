@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EddgiAssignment</string>
+    <string name="facebook_app_id">3158447137573846</string>
+    <string name="fb_login_protocol_scheme">fb3158447137573846</string>
+    <string name="title_activity_data_out">DataOutActivity</string>
+    <string name="tab_text_1">IMAGES</string>
+    <string name="tab_text_2">VIDEOES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
